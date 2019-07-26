@@ -1,43 +1,7 @@
 # start-lit-element
 
-A simple Hello World for LitElement.
-
-https://start-lit-element.firebaseapp.com/
-
-* [Quick start](#quick-start)
-* [Detailed setup info](#detailed-setup-info)
-* [Browser compatibility and performance](#browser-compatibility-and-performance)
-
-## Quick start
-
 ```
 npm install -g polymer-cli
-git clone https://github.com/PolymerLabs/start-lit-element
-cd start-lit-element
-npm install
-polymer serve
-```
-
-## Detailed setup info
-
-* [Clone](#clone-this-repo)
-* [Serve](#start-a-dev-server)
-* [Setup](#set-up-new-app)
-* [Build](#build-for-production-and-serve-locally)
-* [Deploy](#deploy)
-
-### Clone this repo
-
-```
-git clone https://github.com/PolymerLabs/start-lit-element
-```
-
-### Start a dev server
-
-```
-npm install -g polymer-cli
-cd start-lit-element
-npm install
 polymer serve
 ```
 
